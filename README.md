@@ -1,3 +1,12 @@
+REQUIRES SPECIAL WIRING
+
+"Pro Micro" Leonardo (Clone by KeeYees)
+Ch1 Pin 16
+Ch2 Pin 8
+Ch3 Pin 9
+Ch4 Pin 10
+
+
 
 ![GPLv3 Licensed](https://img.shields.io/badge/license-GPLv3-blue.svg) ![Platforms: Android, Windows, MacOS, Linux](https://img.shields.io/badge/platforms-Android%20%7C%20Windows%20%7C%20Mac%20%7C%20Linux-lightgrey.svg) ![Arduino v1.8.2](https://img.shields.io/badge/arduino-v1.8.2-brightgreen.svg) ![Up-To-Date Dependencies](https://img.shields.io/badge/dependencies-Up%20To%20Date-blue.svg) ![Arduino v1.8.2](https://img.shields.io/badge/development-Active-orange.svg)
 
