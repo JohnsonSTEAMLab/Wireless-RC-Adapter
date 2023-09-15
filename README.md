@@ -1,9 +1,14 @@
 REQUIRES SPECIAL WIRING
 
+
 !"Pro Micro" Leonardo (Clone by KeeYees)
+
 !Ch1 Pin 16
+
 !Ch2 Pin 8
+
 !Ch3 Pin 9
+
 !Ch4 Pin 10
 
 
